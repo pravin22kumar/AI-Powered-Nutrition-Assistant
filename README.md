@@ -55,7 +55,7 @@ We welcome contributions! Feel free to fork the repo, open issues, or submit pul
 ---
 
 ## 📞 Contact  
-For questions or suggestions, reach out at sachinmathanprabhu11@gmail.com.  
+For questions or suggestions, reach out at pravinkumar22005@gmail.com.  
 
 ---
 
